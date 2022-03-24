@@ -1,6 +1,13 @@
 ### CounterApp
 This is my firs app with ReactJS 
 
+
+
+
+### `npm install`
+This is to install dependencies
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
